@@ -4,7 +4,7 @@ An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 
 ## Usage
 
-View live at https://prof-rossetti.github.io/student-site.
+View live at https://github.com/leecaseyc/student-site/
 
 ## Contributing
 
